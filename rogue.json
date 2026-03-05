@@ -1,0 +1,2918 @@
+{
+	"Level": {
+		"Rooms": [
+			{
+				"Width": 5,
+				"Height": 5,
+				"TopLeftCorner": 12
+			},
+			{
+				"Width": 7,
+				"Height": 5,
+				"TopLeftCorner": 29
+			},
+			{
+				"Width": 6,
+				"Height": 5,
+				"TopLeftCorner": 70
+			},
+			{
+				"Width": 5,
+				"Height": 5,
+				"TopLeftCorner": 557
+			},
+			{
+				"Width": 7,
+				"Height": 5,
+				"TopLeftCorner": 588
+			},
+			{
+				"Width": 10,
+				"Height": 5,
+				"TopLeftCorner": 603
+			},
+			{
+				"Width": 7,
+				"Height": 5,
+				"TopLeftCorner": 1097
+			},
+			{
+				"Width": 7,
+				"Height": 5,
+				"TopLeftCorner": 1121
+			},
+			{
+				"Width": 8,
+				"Height": 5,
+				"TopLeftCorner": 1150
+			}
+		],
+		"Cells": {
+			"1023": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1024": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1025": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1026": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1044": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1045": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1046": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1047": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1048": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1049": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1050": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1051": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1052": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1053": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1054": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1055": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1056": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1057": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1058": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"107": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1074": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"108": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"109": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1097": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1098": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1099": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"110": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1100": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1101": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"1102": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1103": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"111": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"112": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1121": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1122": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"1123": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1124": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1125": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1126": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1127": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"113": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1150": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"1151": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"1152": {
+				"Ground": 3,
+				"Visible": true,
+				"Visited": true
+			},
+			"1153": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"1154": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"1155": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"1156": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"1157": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"1175": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1176": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1177": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1178": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1179": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1180": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1181": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"1182": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1183": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1184": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1185": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1186": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1187": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1188": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1189": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1190": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1191": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1192": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1193": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1194": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1195": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1196": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1197": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1198": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1199": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"12": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1200": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1201": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1202": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1203": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1204": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1205": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1228": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"1229": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"1230": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"1231": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"1232": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"1233": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"1234": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"1235": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"1253": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1254": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1255": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1256": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1257": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1258": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1259": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1277": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1278": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1279": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1280": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1281": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1282": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1283": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"13": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1306": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"1307": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"1308": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"1309": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"1310": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"1311": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"1312": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"1313": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"1331": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1332": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1333": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1334": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1335": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1336": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1337": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1355": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1356": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1357": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1358": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1359": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1360": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1361": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1384": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"1385": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"1386": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"1387": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"1388": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"1389": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"1390": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"1391": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"14": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1409": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1410": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1411": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1412": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1413": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1414": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1415": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1433": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1434": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1435": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1436": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1437": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1438": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1439": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1462": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"1463": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"1464": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"1465": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"1466": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"1467": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"1468": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"1469": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"148": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"149": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"15": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"150": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"151": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"152": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"153": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"16": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"168": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"169": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"170": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"171": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"172": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"173": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"174": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"175": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"176": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"177": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"178": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"179": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"180": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"181": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"182": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"183": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"184": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"185": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"186": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"187": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"188": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"189": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"190": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"191": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"226": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"227": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"228": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"229": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"230": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"231": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"246": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"247": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"248": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"249": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"250": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"262": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"263": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"264": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"265": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"266": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"267": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"268": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"269": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"29": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"30": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"304": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"305": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"306": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"307": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"308": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"309": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"31": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"32": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"324": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"325": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"326": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"327": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"328": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"33": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"34": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"341": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"342": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"343": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"344": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"345": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"346": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"347": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"35": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"382": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"383": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"384": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"385": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"386": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"387": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"403": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"404": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"422": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"461": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"482": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"500": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"501": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"502": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"503": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"504": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"505": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"506": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"507": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"508": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"509": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"510": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"511": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"528": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"529": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"530": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"531": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"532": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"533": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"534": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"535": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"536": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"537": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"538": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"539": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"557": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"558": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"559": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"560": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"561": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"588": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"589": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"590": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"591": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"592": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"593": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"594": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"603": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"604": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"605": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"606": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"607": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"608": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"609": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"610": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"611": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"612": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"635": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"636": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"637": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"638": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"639": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"640": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"641": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"642": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"643": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"644": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"645": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"646": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"647": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"666": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"667": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"668": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"669": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"670": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"671": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"672": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"681": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"682": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"683": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"684": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"685": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"686": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"687": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"688": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"689": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"690": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"70": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"71": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"713": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"714": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"715": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"716": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"717": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"72": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"725": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"73": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"74": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"744": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"745": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"746": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"747": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"748": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"749": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"75": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"750": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"751": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"752": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"753": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"754": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"755": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"756": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"757": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"758": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"759": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"760": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"761": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"762": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"763": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"764": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"765": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"766": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"767": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"768": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"791": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"792": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"793": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"794": {
+				"Ground": 4,
+				"Visible": false,
+				"Visited": false
+			},
+			"795": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"803": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"804": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"805": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"806": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"807": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"808": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"809": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"810": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"811": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"812": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"813": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"814": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"815": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"816": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"817": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"818": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"819": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"820": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"821": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"822": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"823": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"824": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"825": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"826": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"827": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"828": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"837": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"838": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"839": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"840": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"841": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"842": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"843": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"844": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"845": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"846": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"869": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"870": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"871": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"872": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"873": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"90": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"900": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"901": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"902": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"903": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"904": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"905": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"906": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"91": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"915": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"916": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"917": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"918": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"919": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"92": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"920": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"921": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"922": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"923": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"924": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"93": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"94": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"948": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"980": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"996": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"997": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			}
+		},
+		"Items": {
+			"1177": {
+				"ItemType": 8,
+				"Name": "Obsidian Reaver +40",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 40,
+				"Value": 0
+			},
+			"1180": {
+				"ItemType": 8,
+				"Name": "Serpent's Kiss Dagger +42",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 42,
+				"Value": 0
+			},
+			"1199": {
+				"ItemType": 4,
+				"Name": "Blue Door",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			"1258": {
+				"ItemType": 8,
+				"Name": "Crimson Talon +20",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 20,
+				"Value": 0
+			},
+			"1356": {
+				"ItemType": 3,
+				"Name": "Blue Key",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			"1358": {
+				"ItemType": 5,
+				"Name": "Loaf of the Forgotten Baker +186",
+				"Health": 186,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			"171": {
+				"ItemType": 8,
+				"Name": "Ironclad Cleaver +35",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 35,
+				"Value": 0
+			},
+			"190": {
+				"ItemType": 7,
+				"Name": "Parchment of Thunderous Roar +14 strength",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 14,
+				"Value": 0
+			},
+			"227": {
+				"ItemType": 8,
+				"Name": "Crimson Talon +38",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 38,
+				"Value": 0
+			},
+			"247": {
+				"ItemType": 7,
+				"Name": "Scroll of Shadowstep +13 strength",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 13,
+				"Value": 0
+			},
+			"248": {
+				"ItemType": 5,
+				"Name": "Loaf of the Forgotten Baker +162",
+				"Health": 162,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			"263": {
+				"ItemType": 2,
+				"Name": "Red Door",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			"325": {
+				"ItemType": 4,
+				"Name": "Blue Door",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			"606": {
+				"ItemType": 2,
+				"Name": "Red Door",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			"637": {
+				"ItemType": 6,
+				"Name": "Vial of Ember Essence +127 health",
+				"Health": 127,
+				"MaxHealth": 127,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			"667": {
+				"ItemType": 5,
+				"Name": "Hardtack of the Endless March +221",
+				"Health": 221,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			"668": {
+				"ItemType": 1,
+				"Name": "Red Key",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			"764": {
+				"ItemType": 7,
+				"Name": "Scroll of Whispers +13 agility",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 13,
+				"Strength": 0,
+				"Value": 0
+			},
+			"792": {
+				"ItemType": 5,
+				"Name": "Smoked Wyrm Jerky +270",
+				"Health": 270,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			"822": {
+				"ItemType": 4,
+				"Name": "Blue Door",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			"824": {
+				"ItemType": 8,
+				"Name": "Serpent's Kiss Dagger +34",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 34,
+				"Value": 0
+			},
+			"825": {
+				"ItemType": 5,
+				"Name": "Crimson Berry Cluster +280",
+				"Health": 280,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			"902": {
+				"ItemType": 2,
+				"Name": "Red Door",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			}
+		},
+		"Enemies": {
+			"1176": {
+				"MonsterType": 15,
+				"Name": "Mimic",
+				"Health": 83,
+				"Agility": 50,
+				"Strength": 22,
+				"Hostility": 1,
+				"InBattle": false,
+				"FirstHit": false,
+				"Visibility": false,
+				"Resting": false,
+				"ItemMimic": 8
+			},
+			"1201": {
+				"MonsterType": 11,
+				"Name": "Zombie",
+				"Health": 83,
+				"Agility": 36,
+				"Strength": 29,
+				"Hostility": 2,
+				"InBattle": false,
+				"FirstHit": false,
+				"Visibility": false,
+				"Resting": false,
+				"ItemMimic": 0
+			},
+			"1333": {
+				"MonsterType": 14,
+				"Name": "Snake-Mage",
+				"Health": 59,
+				"Agility": 57,
+				"Strength": 22,
+				"Hostility": 3,
+				"InBattle": false,
+				"FirstHit": false,
+				"Visibility": false,
+				"Resting": false,
+				"ItemMimic": 0
+			},
+			"1334": {
+				"MonsterType": 11,
+				"Name": "Zombie",
+				"Health": 83,
+				"Agility": 36,
+				"Strength": 29,
+				"Hostility": 2,
+				"InBattle": false,
+				"FirstHit": false,
+				"Visibility": false,
+				"Resting": false,
+				"ItemMimic": 0
+			},
+			"1359": {
+				"MonsterType": 15,
+				"Name": "Mimic",
+				"Health": 83,
+				"Agility": 50,
+				"Strength": 22,
+				"Hostility": 1,
+				"InBattle": false,
+				"FirstHit": false,
+				"Visibility": false,
+				"Resting": false,
+				"ItemMimic": 6
+			},
+			"308": {
+				"MonsterType": 12,
+				"Name": "Ogre",
+				"Health": 95,
+				"Agility": 36,
+				"Strength": 43,
+				"Hostility": 2,
+				"InBattle": false,
+				"FirstHit": false,
+				"Visibility": false,
+				"Resting": false,
+				"ItemMimic": 0
+			},
+			"639": {
+				"MonsterType": 10,
+				"Name": "Vampire",
+				"Health": 83,
+				"Agility": 50,
+				"Strength": 29,
+				"Hostility": 3,
+				"InBattle": false,
+				"FirstHit": true,
+				"Visibility": false,
+				"Resting": false,
+				"ItemMimic": 0
+			},
+			"748": {
+				"MonsterType": 12,
+				"Name": "Ogre",
+				"Health": 95,
+				"Agility": 36,
+				"Strength": 43,
+				"Hostility": 2,
+				"InBattle": false,
+				"FirstHit": false,
+				"Visibility": false,
+				"Resting": false,
+				"ItemMimic": 0
+			},
+			"767": {
+				"MonsterType": 11,
+				"Name": "Zombie",
+				"Health": 83,
+				"Agility": 36,
+				"Strength": 29,
+				"Hostility": 2,
+				"InBattle": false,
+				"FirstHit": false,
+				"Visibility": false,
+				"Resting": false,
+				"ItemMimic": 0
+			},
+			"794": {
+				"MonsterType": 15,
+				"Name": "Mimic",
+				"Health": 83,
+				"Agility": 50,
+				"Strength": 22,
+				"Hostility": 1,
+				"InBattle": false,
+				"FirstHit": false,
+				"Visibility": false,
+				"Resting": false,
+				"ItemMimic": 5
+			},
+			"826": {
+				"MonsterType": 12,
+				"Name": "Ogre",
+				"Health": 95,
+				"Agility": 36,
+				"Strength": 43,
+				"Hostility": 2,
+				"InBattle": false,
+				"FirstHit": false,
+				"Visibility": false,
+				"Resting": false,
+				"ItemMimic": 0
+			}
+		}
+	},
+	"LevelNumber": 4,
+	"Hero": {
+		"Coordinate": 1310,
+		"Health": 332,
+		"MaxHealth": 492,
+		"Agility": 80,
+		"Strength": 88,
+		"Weapon": {
+			"ItemType": 8,
+			"Name": "Blade of the Forgotten Dawn +37",
+			"Health": 0,
+			"MaxHealth": 0,
+			"Agility": 0,
+			"Strength": 37,
+			"Value": 0
+		},
+		"HasFirstKey": false,
+		"HasSecondKey": false,
+		"Gold": 179,
+		"IsSleeping": false
+	},
+	"Backpack": {
+		"5": [
+			{
+				"ItemType": 5,
+				"Name": "Spiced Venison Strips +275",
+				"Health": 275,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 5,
+				"Name": "Hardtack of the Endless March +172",
+				"Health": 172,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 5,
+				"Name": "Crimson Berry Cluster +255",
+				"Health": 255,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 5,
+				"Name": "Golden Apple of Vitality +245",
+				"Health": 245,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 5,
+				"Name": "Dried Mushrooms of the Deep +280",
+				"Health": 280,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 5,
+				"Name": "Spiced Venison Strips +205",
+				"Health": 205,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 5,
+				"Name": "Crimson Berry Cluster +225",
+				"Health": 225,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 5,
+				"Name": "Crimson Berry Cluster +195",
+				"Health": 195,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 5,
+				"Name": "Ration of the Ironclad +242",
+				"Health": 242,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			}
+		],
+		"6": [
+			{
+				"ItemType": 6,
+				"Name": "Vial of Crimson Vitality +22 strength",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 22,
+				"Value": 0
+			},
+			{
+				"ItemType": 6,
+				"Name": "Elixir of the Shattered Mind +115 health",
+				"Health": 115,
+				"MaxHealth": 115,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 6,
+				"Name": "Elixir of the Shattered Mind +31 agility",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 31,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 6,
+				"Name": "Potion of the Phantom's Breath +26 strength",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 26,
+				"Value": 0
+			},
+			{
+				"ItemType": 6,
+				"Name": "Elixir of the Obsidian Veil +40 agility",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 40,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 6,
+				"Name": "Potion of the Phantom's Breath +32 strength",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 32,
+				"Value": 0
+			},
+			{
+				"ItemType": 6,
+				"Name": "Potion of the Phantom's Breath +23 strength",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 23,
+				"Value": 0
+			},
+			{
+				"ItemType": 6,
+				"Name": "Elixir of the Shattered Mind +138 health",
+				"Health": 138,
+				"MaxHealth": 138,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 6,
+				"Name": "Elixir of the Shattered Mind +30 agility",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 30,
+				"Strength": 0,
+				"Value": 0
+			}
+		],
+		"7": [
+			{
+				"ItemType": 7,
+				"Name": "Manuscript of Forgotten Truths +13 agility",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 13,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 7,
+				"Name": "Parchment of Eternal Flame +12 agility",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 12,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 7,
+				"Name": "Parchment of Thunderous Roar +95 maximum health",
+				"Health": 95,
+				"MaxHealth": 95,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 7,
+				"Name": "Manuscript of Forgotten Truths +14 strength",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 14,
+				"Value": 0
+			},
+			{
+				"ItemType": 7,
+				"Name": "Scroll of Iron Will +11 strength",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 11,
+				"Value": 0
+			},
+			{
+				"ItemType": 7,
+				"Name": "Tome of the Lost King +98 maximum health",
+				"Health": 98,
+				"MaxHealth": 98,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 7,
+				"Name": "Scroll of Unseen Paths +49 maximum health",
+				"Health": 49,
+				"MaxHealth": 49,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 7,
+				"Name": "Scroll of Unseen Paths +8 strength",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 8,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			}
+		],
+		"8": [
+			{
+				"ItemType": 8,
+				"Name": "Thunderstrike Maul +32",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 32,
+				"Value": 0
+			},
+			{
+				"ItemType": 8,
+				"Name": "Voidrend Sword +20",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 20,
+				"Value": 0
+			},
+			{
+				"ItemType": 8,
+				"Name": "Blade of the Forgotten Dawn +21",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 21,
+				"Value": 0
+			},
+			{
+				"ItemType": 8,
+				"Name": "Crimson Talon +32",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 32,
+				"Value": 0
+			},
+			{
+				"ItemType": 8,
+				"Name": "Serpent's Kiss Dagger +37",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 37,
+				"Value": 0
+			},
+			{
+				"ItemType": 8,
+				"Name": "Serpent's Kiss Dagger +31",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 31,
+				"Value": 0
+			},
+			{
+				"ItemType": 8,
+				"Name": "Serpent's Kiss Dagger +20",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 20,
+				"Value": 0
+			},
+			{
+				"ItemType": 8,
+				"Name": "Ironclad Cleaver +34",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 34,
+				"Value": 0
+			},
+			{
+				"ItemType": 8,
+				"Name": "Fang of the Shadow Wolf +28",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 28,
+				"Value": 0
+			}
+		]
+	},
+	"Effects": {},
+	"SessionStats": {
+		"TotalTreasureCollected": 179,
+		"DeepestLvlReached": 4,
+		"EnemysKilled": 28,
+		"FoodConsumed": 2,
+		"ElixirsConsumed": 0,
+		"ScrollsConsumed": 1,
+		"TotalHitsTaken": 24,
+		"TilesWalked": 1282
+	}
+}

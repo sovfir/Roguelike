@@ -1,0 +1,15 @@
+package constants
+
+const (
+	FIELD_WIDTH      = 78
+	FIELD_HEIGHT     = 21
+	ROOM_COUNT_X     = 3
+	ROOM_COUNT_Y     = 3
+	MIN_ROOM_SIZE    = 5
+	MAX_ROOM_SIZE    = 11
+	GRID_LINE_SPACES = 2
+	FIRST_ZONE_CAP   = 4
+	SECOND_ZONE_CAP  = 7
+
+	LEVEL_UPDATE_DIFFICULTY = 4
+)
